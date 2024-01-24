@@ -1,5 +1,6 @@
 function calculator(form) {
+    
     let calc = form.math.value;
-    console.log(calc);
+    console.log(calc); 
 }
 calculator();
